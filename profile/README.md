@@ -1,4 +1,4 @@
-# LinkZip
+# LinkZip - Static Content Deployment Solution
 
 ![logo](https://github.com/linkzip-dev/.github/blob/main/profile/logo.png?raw=true)
 
