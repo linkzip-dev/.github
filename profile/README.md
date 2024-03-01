@@ -30,6 +30,6 @@ Have questions or need assistance? Reach out to our support team at [support@lin
 
 ## Follow Us
 
-Stay updated on the latest news and updates by following us on [Discord](https://discord.gg/pyXHFXGr) and [Youtube](https://www.youtube.com/@linkzip-dev).
+Stay updated on the latest news and updates by following us on [Discord](https://discord.gg/gtUgYH4zPV) and [Youtube](https://www.youtube.com/@linkzip-dev).
 
 Thank you for choosing LinkZip for your deployment needs!
